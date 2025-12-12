@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Blend Space # the main title
 
-tagline: technical insights # it will display as the subtitle
+tagline: Bending space and time with code # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A place I can blend my love of coding, writing, math, and life into one.
